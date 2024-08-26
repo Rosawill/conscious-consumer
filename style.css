@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+table, th, td {
+  border: 1px solid black;
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.header {
+  background-image: url('images/vintage-clothing-rack.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  height: 400px;
+  margin: 50px auto;
+  width: 50%;
+  text-align: center;
+}
+
+.main {
+  padding: 10px;
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
